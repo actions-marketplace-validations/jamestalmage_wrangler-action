@@ -1,8 +1,8 @@
-name: "Deploy to Cloudflare Workers with Wrangler"
+name: "Deploy to Cloudflare Workers with Wrangler - fork of official"
 branding:
   icon: "upload-cloud"
   color: "orange"
-description: "Deploy your Cloudflare projects from GitHub using Wrangler"
+description: "Deploy your Cloudflare projects from GitHub using Wrangler - fork of official"
 runs:
   # Possible values: https://github.com/actions/runner/blob/main/src/Runner.Common/Util/NodeUtil.cs#L9
   using: "node20"
